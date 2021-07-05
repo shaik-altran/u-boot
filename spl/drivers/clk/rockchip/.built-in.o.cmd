@@ -1,0 +1,1 @@
+cmd_spl/drivers/clk/rockchip/built-in.o :=  rm -f spl/drivers/clk/rockchip/built-in.o; aarch64-linux-gnu-ar cDPrsT spl/drivers/clk/rockchip/built-in.o spl/drivers/clk/rockchip/clk_pll.o spl/drivers/clk/rockchip/clk_rk3399.o

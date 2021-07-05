@@ -1,0 +1,9 @@
+pmic-uclass.c:187:12:pmic_pre_probe	16	static
+pmic-uclass.c:20:5:pmic_bind_children	96	static
+pmic-uclass.c:91:5:pmic_get	0	static
+pmic-uclass.c:96:5:pmic_reg_count	32	static
+pmic-uclass.c:106:5:pmic_read	48	static
+pmic-uclass.c:119:5:pmic_write	48	static
+pmic-uclass.c:132:5:pmic_reg_read	48	static
+pmic-uclass.c:150:5:pmic_reg_write	48	static
+pmic-uclass.c:168:5:pmic_clrsetbits	80	static

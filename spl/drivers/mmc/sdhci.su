@@ -1,0 +1,11 @@
+sdhci.c:745:12:sdhci_get_cd	16	static
+sdhci.c:731:12:sdhci_deferred_probe	16	static
+sdhci.c:25:13:sdhci_reset.isra.0	48	static
+sdhci.c:200:12:sdhci_send_command	96	static
+sdhci.c:365:5:sdhci_set_clock	48	static
+sdhci.c:612:12:sdhci_set_ios	32	static
+sdhci.c:489:6:sdhci_set_uhs_timing	0	static
+sdhci.c:605:6:sdhci_set_control_reg	0	static
+sdhci.c:724:5:sdhci_probe	32	static
+sdhci.c:792:5:sdhci_setup_cfg	64	static
+sdhci.c:946:5:sdhci_bind	0	static

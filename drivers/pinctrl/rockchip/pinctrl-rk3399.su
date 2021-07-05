@@ -1,0 +1,3 @@
+pinctrl-rk3399.c:166:12:rk3399_set_drive	64	static
+pinctrl-rk3399.c:118:12:rk3399_set_pull	48	static
+pinctrl-rk3399.c:55:12:rk3399_set_mux	80	static

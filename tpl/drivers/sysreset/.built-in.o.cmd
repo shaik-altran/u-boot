@@ -1,0 +1,1 @@
+cmd_tpl/drivers/sysreset/built-in.o :=  rm -f tpl/drivers/sysreset/built-in.o; aarch64-linux-gnu-ar cDPrsT tpl/drivers/sysreset/built-in.o tpl/drivers/sysreset/sysreset-uclass.o tpl/drivers/sysreset/sysreset_rockchip.o

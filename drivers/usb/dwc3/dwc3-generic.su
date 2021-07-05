@@ -1,0 +1,8 @@
+dwc3-generic.c:108:12:dwc3_generic_of_to_plat	48	static
+dwc3-generic.c:186:12:dwc3_generic_host_remove	48	static
+dwc3-generic.c:168:12:dwc3_generic_host_probe	64	static
+dwc3-generic.c:216:6:dwc3_ti_select_dr_mode	48	static
+dwc3-generic.c:432:12:dwc3_glue_remove	32	static
+dwc3-generic.c:349:12:dwc3_glue_reset_init	48	static
+dwc3-generic.c:391:12:dwc3_glue_probe	80	static
+dwc3-generic.c:300:12:dwc3_glue_bind	64	static

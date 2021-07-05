@@ -1,0 +1,15 @@
+xhci.c:297:21:xhci_microframes_to_exponent	0	static
+xhci.c:1511:12:xhci_get_max_xfer_size	0	static
+xhci.c:149:1:handshake	48	static
+xhci.c:228:12:xhci_reset	32	static
+xhci.c:1423:12:xhci_submit_bulk_msg	16	static
+xhci.c:280:21:xhci_get_ep_index	0	static
+xhci.c:1430:12:xhci_submit_int_msg	16	static
+xhci.c:122:19:xhci_get_ctrl	32	static
+xhci.c:483:12:xhci_configure_endpoints	48	static
+xhci.c:1445:12:xhci_update_hub_device	64	static
+xhci.c:1439:12:xhci_alloc_device	48	static
+xhci.c:1390:12:xhci_submit_control_msg	176	static
+xhci.c:802:5:xhci_check_maxpacket	48	static
+xhci.c:1525:5:xhci_register	64	static
+xhci.c:1566:5:xhci_deregister	32	static

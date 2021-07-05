@@ -1,0 +1,1 @@
+cmd_tpl/lib/libfdt/built-in.o :=  rm -f tpl/lib/libfdt/built-in.o; aarch64-linux-gnu-ar cDPrsT tpl/lib/libfdt/built-in.o tpl/lib/libfdt/fdt.o tpl/lib/libfdt/fdt_ro.o tpl/lib/libfdt/fdt_wip.o tpl/lib/libfdt/fdt_strerror.o tpl/lib/libfdt/fdt_sw.o tpl/lib/libfdt/fdt_rw.o tpl/lib/libfdt/fdt_empty_tree.o tpl/lib/libfdt/fdt_addresses.o

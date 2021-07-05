@@ -1,0 +1,5 @@
+display-uclass.c:40:13:display_mode_valid	0	static
+display-uclass.c:12:5:display_read_edid	0	static
+display-uclass.c:21:5:display_enable	32	static
+display-uclass.c:51:5:display_read_timing	304	static
+display-uclass.c:72:6:display_in_use	16	static

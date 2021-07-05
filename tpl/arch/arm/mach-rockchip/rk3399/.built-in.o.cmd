@@ -1,0 +1,1 @@
+cmd_tpl/arch/arm/mach-rockchip/rk3399/built-in.o :=  rm -f tpl/arch/arm/mach-rockchip/rk3399/built-in.o; aarch64-linux-gnu-ar cDPrsT tpl/arch/arm/mach-rockchip/rk3399/built-in.o tpl/arch/arm/mach-rockchip/rk3399/clk_rk3399.o tpl/arch/arm/mach-rockchip/rk3399/rk3399.o tpl/arch/arm/mach-rockchip/rk3399/syscon_rk3399.o

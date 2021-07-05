@@ -1,0 +1,19 @@
+.rk3399-firefly.dtb.pre.o: arch/arm/dts/.rk3399-firefly.dtb.pre.tmp \
+ include/linux/kconfig.h include/generated/autoconf.h \
+ arch/arm/dts/include/dt-bindings/input/linux-event-codes.h \
+ arch/arm/dts/include/dt-bindings/pwm/pwm.h arch/arm/dts/rk3399.dtsi \
+ arch/arm/dts/include/dt-bindings/clock/rk3399-cru.h \
+ arch/arm/dts/include/dt-bindings/gpio/gpio.h \
+ arch/arm/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
+ arch/arm/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm/dts/include/dt-bindings/pinctrl/rockchip.h \
+ arch/arm/dts/include/dt-bindings/power/rk3399-power.h \
+ arch/arm/dts/include/dt-bindings/thermal/thermal.h \
+ arch/arm/dts/rk3399-opp.dtsi arch/arm/dts/rk3399-firefly-u-boot.dtsi \
+ arch/arm/dts/rk3399-u-boot.dtsi arch/arm/dts/rockchip-u-boot.dtsi \
+ include/config.h include/config_uncmd_spl.h include/configs/evb_rk3399.h \
+ include/configs/rk3399_common.h include/configs/rockchip-common.h \
+ include/linux/sizes.h include/linux/const.h \
+ include/config_distro_bootcmd.h include/environment/distro/sf.h \
+ arch/arm/include/asm/config.h include/linux/kconfig.h \
+ include/config_fallbacks.h arch/arm/dts/rk3399-sdram-ddr3-1600.dtsi

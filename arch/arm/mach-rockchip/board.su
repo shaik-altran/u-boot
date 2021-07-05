@@ -1,0 +1,3 @@
+board.c:25:12:rk_board_late_init	0	static
+board.c:30:5:board_late_init	16	static
+board.c:37:5:board_init	16	static

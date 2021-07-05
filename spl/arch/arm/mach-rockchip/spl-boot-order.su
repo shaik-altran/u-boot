@@ -1,0 +1,2 @@
+spl-boot-order.c:95:20:board_spl_was_booted_from	0	static
+spl-boot-order.c:101:6:board_boot_order	96	static

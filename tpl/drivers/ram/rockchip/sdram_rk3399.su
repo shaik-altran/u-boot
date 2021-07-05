@@ -1,0 +1,14 @@
+sdram_rk3399.c:234:13:rkclk_ddr_reset	0	static
+sdram_rk3399.c:288:13:set_memory_map	0	static
+sdram_rk3399.c:1583:12:calculate_ddrconfig	16	static
+sdram_rk3399.c:1692:3:get_phy_index_params	0	static
+sdram_rk3399.c:3152:12:rk3399_dmc_get_info	32	static
+sdram_rk3399.c:3014:12:rk3399_dmc_of_to_plat	48	static
+sdram_rk3399.c:1033:13:select_per_cs_training_index.isra.0	0	static
+sdram_rk3399.c:1376:12:data_training	48	static
+sdram_rk3399.c:1629:12:data_training_first	0	static
+sdram_rk3399.c:1646:12:switch_to_phy_index1	64	static
+sdram_rk3399.c:1453:13:set_ddrconfig.isra.0	0	static
+sdram_rk3399.c:3134:12:rk3399_dmc_probe	176	static
+sdram_rk3399.c:196:1:lpddr4_get_io_settings.isra.0.constprop	0	static
+sdram_rk3399.c:1701:6:modify_param	64	static

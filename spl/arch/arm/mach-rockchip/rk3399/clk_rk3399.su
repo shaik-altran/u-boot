@@ -1,0 +1,2 @@
+clk_rk3399.c:20:7:rockchip_get_cru	32	static
+clk_rk3399.c:41:7:rockchip_get_pmucru	32	static

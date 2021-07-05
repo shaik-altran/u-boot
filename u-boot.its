@@ -1,0 +1,74 @@
+
+/*
+ * This is a generated file.
+ */
+/dts-v1/;
+
+/ {
+	description = "FIT image for U-Boot with bl31 (TF-A)";
+	#address-cells = <1>;
+
+	images {
+
+		uboot {
+			description = "U-Boot (64-bit)";
+			data = /incbin/("u-boot-nodtb.bin");
+			type = "standalone";
+			os = "U-Boot";
+			arch = "arm64";
+			compression = "none";
+			load = <0x00200000>;
+		};
+
+		atf_1 {
+			description = "ARM Trusted Firmware";
+			data = /incbin/("bl31_0x00040000.bin");
+			type = "firmware";
+			arch = "arm64";
+			os = "arm-trusted-firmware";
+			compression = "none";
+			load = <0x00040000>;
+			entry = <0x00040000>;
+		};
+
+		atf_2 {
+			description = "ARM Trusted Firmware";
+			data = /incbin/("bl31_0xff3b0000.bin");
+			type = "firmware";
+			arch = "arm64";
+			os = "arm-trusted-firmware";
+			compression = "none";
+			load = <0xff3b0000>;
+		};
+
+		atf_3 {
+			description = "ARM Trusted Firmware";
+			data = /incbin/("bl31_0xff8c0000.bin");
+			type = "firmware";
+			arch = "arm64";
+			os = "arm-trusted-firmware";
+			compression = "none";
+			load = <0xff8c0000>;
+		};
+
+		fdt_1 {
+			description = "rk3399-evb.dtb";
+			data = /incbin/("arch/arm/dts/rk3399-evb.dtb");
+			type = "flat_dt";
+			compression = "none";
+		};
+
+	};
+
+	configurations {
+		default = "config_1";
+		config_1 {
+			description = "rk3399-evb.dtb";
+			firmware = "atf_1";
+			loadables = "uboot","atf_2","atf_3";
+			fdt = "fdt_1";
+		};
+
+	};
+
+};

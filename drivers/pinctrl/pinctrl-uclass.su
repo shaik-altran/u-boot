@@ -1,0 +1,13 @@
+pinctrl-uclass.c:109:12:pinconfig_post_bind	80	static
+pinctrl-uclass.c:399:27:pinctrl_post_bind	0	static
+pinctrl-uclass.c:175:1:pinctrl_gpio_get_pinctrl_and_offset.isra.0	128	static
+pinctrl-uclass.c:225:5:pinctrl_gpio_request	32	static
+pinctrl-uclass.c:252:5:pinctrl_gpio_free	32	static
+pinctrl-uclass.c:305:5:pinctrl_select_state	112	static
+pinctrl-uclass.c:323:5:pinctrl_request	0	static
+pinctrl-uclass.c:333:5:pinctrl_request_noflags	0	static
+pinctrl-uclass.c:338:5:pinctrl_get_periph_id	0	static
+pinctrl-uclass.c:348:5:pinctrl_get_gpio_mux	0	static
+pinctrl-uclass.c:358:5:pinctrl_get_pins_count	0	static
+pinctrl-uclass.c:368:5:pinctrl_get_pin_name	32	static
+pinctrl-uclass.c:381:5:pinctrl_get_pin_muxing	0	static

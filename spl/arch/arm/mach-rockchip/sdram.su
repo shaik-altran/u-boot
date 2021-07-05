@@ -1,0 +1,4 @@
+sdram.c:38:5:dram_init_banksize	0	static
+sdram.c:78:8:rockchip_sdram_size	64	static
+sdram.c:185:5:dram_init	48	static
+sdram.c:208:7:board_get_usable_ram_top	0	static

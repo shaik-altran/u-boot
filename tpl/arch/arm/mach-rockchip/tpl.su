@@ -1,0 +1,4 @@
+tpl.c:26:13:rockchip_stimer_init	0	static
+tpl.c:46:6:board_init_f	32	static
+tpl.c:84:5:board_return_to_bootrom	16	static
+tpl.c:92:5:spl_boot_device	0	static

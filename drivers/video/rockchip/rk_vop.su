@@ -1,0 +1,3 @@
+rk_vop.c:396:6:rk_vop_probe_regulators	64	static
+rk_vop.c:413:5:rk_vop_probe	400	static
+rk_vop.c:480:5:rk_vop_bind	16	static

@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-rockchip/built-in.o :=  rm -f arch/arm/mach-rockchip/built-in.o; aarch64-linux-gnu-ar cDPrsT arch/arm/mach-rockchip/built-in.o arch/arm/mach-rockchip/boot_mode.o arch/arm/mach-rockchip/board.o arch/arm/mach-rockchip/cpu-info.o arch/arm/mach-rockchip/sdram.o arch/arm/mach-rockchip/rk3399/built-in.o

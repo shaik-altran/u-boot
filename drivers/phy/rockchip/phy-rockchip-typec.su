@@ -1,0 +1,6 @@
+phy-rockchip-typec.c:522:13:rockchip_tcphy_exit	32	static
+phy-rockchip-typec.c:670:12:rockchip_tcphy_probe	64	static
+phy-rockchip-typec.c:717:12:rockchip_tcphy_bind	80	static
+phy-rockchip-typec.c:531:12:tcphy_cfg_usb3_to_usb2_only.constprop	0	static
+phy-rockchip-typec.c:543:12:rockchip_usb3_phy_power_on	80	static
+phy-rockchip-typec.c:589:12:rockchip_usb3_phy_power_off	16	static

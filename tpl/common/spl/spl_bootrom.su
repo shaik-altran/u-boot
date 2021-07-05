@@ -1,0 +1,2 @@
+spl_bootrom.c:9:12:board_return_to_bootrom	0	static
+spl_bootrom.c:15:12:spl_return_to_bootrom	0	static

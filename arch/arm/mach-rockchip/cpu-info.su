@@ -1,0 +1,2 @@
+cpu-info.c:16:7:get_reset_cause	16	static
+cpu-info.c:48:5:print_cpuinfo	32	static

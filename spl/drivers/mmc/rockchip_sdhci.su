@@ -1,0 +1,3 @@
+rockchip_sdhci.c:84:12:arasan_sdhci_of_to_plat	32	static
+rockchip_sdhci.c:34:12:arasan_sdhci_probe	112	static
+rockchip_sdhci.c:97:12:rockchip_sdhci_bind	32	static

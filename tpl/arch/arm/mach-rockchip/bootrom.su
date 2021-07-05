@@ -1,0 +1,2 @@
+bootrom.c:26:6:back_to_bootrom	32	static
+bootrom.c:67:5:save_boot_params	16	static

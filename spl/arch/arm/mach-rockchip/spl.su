@@ -1,0 +1,8 @@
+spl.c:22:5:board_return_to_bootrom	16	static
+spl.c:33:13:board_spl_was_booted_from	0	static
+spl.c:51:5:spl_boot_device	0	static
+spl.c:68:5:spl_mmc_boot_mode	0	static
+spl.c:81:13:rockchip_stimer_init	0	static
+spl.c:100:12:board_early_init_f	0	static
+spl.c:105:12:arch_cpu_init	0	static
+spl.c:110:6:board_init_f	32	static

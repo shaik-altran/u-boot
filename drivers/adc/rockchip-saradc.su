@@ -1,0 +1,5 @@
+rockchip-saradc.c:89:5:rockchip_saradc_stop	16	static
+rockchip-saradc.c:43:5:rockchip_saradc_channel_data	48	static
+rockchip-saradc.c:68:5:rockchip_saradc_start_channel	32	static
+rockchip-saradc.c:101:5:rockchip_saradc_probe	80	static
+rockchip-saradc.c:120:5:rockchip_saradc_of_to_plat	48	static

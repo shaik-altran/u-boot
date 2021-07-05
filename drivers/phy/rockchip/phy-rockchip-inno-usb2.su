@@ -1,0 +1,8 @@
+phy-rockchip-inno-usb2.c:80:35:us2phy_get_port	32	static
+phy-rockchip-inno-usb2.c:103:12:rockchip_usb2phy_power_off	32	static
+phy-rockchip-inno-usb2.c:89:12:rockchip_usb2phy_power_on	32	static
+phy-rockchip-inno-usb2.c:138:12:rockchip_usb2phy_exit	16	static
+phy-rockchip-inno-usb2.c:114:12:rockchip_usb2phy_init	48	static
+phy-rockchip-inno-usb2.c:148:12:rockchip_usb2phy_of_xlate	32	static
+phy-rockchip-inno-usb2.c:171:12:rockchip_usb2phy_probe	64	static
+phy-rockchip-inno-usb2.c:218:12:rockchip_usb2phy_bind	80	static

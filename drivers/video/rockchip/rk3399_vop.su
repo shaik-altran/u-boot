@@ -1,0 +1,2 @@
+rk3399_vop.c:21:13:rk3399_set_pin_polarity	32	static
+rk3399_vop.c:63:12:rk3399_vop_probe	32	static

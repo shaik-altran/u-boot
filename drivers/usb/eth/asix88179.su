@@ -1,0 +1,11 @@
+asix88179.c:758:6:ax88179_eth_stop	32	static
+asix88179.c:847:12:ax88179_free_pkt	16	static
+asix88179.c:778:5:ax88179_eth_recv	64	static
+asix88179.c:468:12:asix_send_common.isra.0	1680	static
+asix88179.c:771:5:ax88179_eth_send	32	static
+asix88179.c:222:12:asix_write_cmd.isra.0	208	static
+asix88179.c:858:5:ax88179_write_hwaddr	32	static
+asix88179.c:247:12:asix_read_cmd.isra.0	192	static
+asix88179.c:867:12:ax88179_eth_probe	48	static
+asix88179.c:365:12:asix_wait_link	64	static
+asix88179.c:751:12:ax88179_eth_start	96	static

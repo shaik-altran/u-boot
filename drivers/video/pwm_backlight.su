@@ -1,0 +1,6 @@
+pwm_backlight.c:254:12:pwm_backlight_probe	0	static
+pwm_backlight.c:86:12:enable_sequence	32	static
+pwm_backlight.c:192:12:pwm_backlight_of_to_plat	160	static
+pwm_backlight.c:60:12:set_pwm	32	static
+pwm_backlight.c:140:12:pwm_backlight_set_brightness	64	static
+pwm_backlight.c:118:12:pwm_backlight_enable	32	static

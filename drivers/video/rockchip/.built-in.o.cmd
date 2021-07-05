@@ -1,0 +1,1 @@
+cmd_drivers/video/rockchip/built-in.o :=  rm -f drivers/video/rockchip/built-in.o; aarch64-linux-gnu-ar cDPrsT drivers/video/rockchip/built-in.o drivers/video/rockchip/rk_vop.o drivers/video/rockchip/rk3399_vop.o drivers/video/rockchip/rk_mipi.o drivers/video/rockchip/rk3399_mipi.o

@@ -1,0 +1,2 @@
+dwc3-of-simple.c:81:12:dwc3_of_simple_remove	32	static
+dwc3-of-simple.c:65:12:dwc3_of_simple_probe	48	static

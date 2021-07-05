@@ -1,0 +1,5 @@
+rk_mipi.c:51:13:rk_mipi_dsi_write	0	static
+rk_mipi.c:171:13:rk_mipi_phy_write.constprop	16	static
+rk_mipi.c:28:5:rk_mipi_read_timing	16	static
+rk_mipi.c:77:5:rk_mipi_dsi_enable	64	static
+rk_mipi.c:196:5:rk_mipi_phy_enable	384	static

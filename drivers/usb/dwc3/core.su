@@ -1,0 +1,17 @@
+core.c:194:12:dwc3_event_buffers_setup	0	static
+core.c:219:13:dwc3_event_buffers_cleanup	0	static
+core.c:324:13:dwc3_cache_hwparams	0	static
+core.c:141:13:dwc3_free_event_buffers	32	static
+core.c:41:13:dwc3_set_mode.isra.0	0	static
+core.c:586:12:dwc3_core_init_mode	16	static
+core.c:300:13:dwc3_free_scratch_buffers	32	static
+core.c:450:12:dwc3_core_init	48	static
+core.c:161:12:dwc3_alloc_event_buffers.constprop	64	static
+core.c:675:5:dwc3_uboot_init	48	static
+core.c:813:6:dwc3_uboot_exit	32	static
+core.c:839:6:dwc3_uboot_handle_interrupt	0	static
+core.c:858:5:dwc3_setup_phy	32	static
+core.c:877:5:dwc3_shutdown_phy	32	static
+core.c:888:6:dwc3_of_parse	48	static
+core.c:963:5:dwc3_init	32	static
+core.c:1031:6:dwc3_remove	32	static

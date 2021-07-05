@@ -1,0 +1,1 @@
+cmd_spl/board/rockchip/evb_rk3399/built-in.o :=  rm -f spl/board/rockchip/evb_rk3399/built-in.o; aarch64-linux-gnu-ar cDPrsT spl/board/rockchip/evb_rk3399/built-in.o spl/board/rockchip/evb_rk3399/evb-rk3399.o

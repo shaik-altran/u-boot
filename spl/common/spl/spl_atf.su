@@ -1,0 +1,7 @@
+spl_atf.c:212:12:spl_fit_images_find	64	static
+spl_atf.c:45:21:bl2_plat_get_bl31_params_default	64	static
+spl_atf.c:104:28:bl2_plat_get_bl31_params	0	static
+spl_atf.c:112:19:bl2_plat_get_bl31_params_v2_default	64	static
+spl_atf.c:177:26:bl2_plat_get_bl31_params_v2	0	static
+spl_atf.c:241:11:spl_fit_images_get_entry	48	static
+spl_atf.c:254:6:spl_invoke_atf	48	static

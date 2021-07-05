@@ -1,0 +1,2 @@
+rk3399.c:86:5:arch_cpu_init	0	static
+rk3399.c:115:6:board_debug_uart_init	0	static

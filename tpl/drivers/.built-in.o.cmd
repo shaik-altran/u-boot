@@ -1,0 +1,1 @@
+cmd_tpl/drivers/built-in.o :=  rm -f tpl/drivers/built-in.o; aarch64-linux-gnu-ar cDPrsT tpl/drivers/built-in.o tpl/drivers/clk/built-in.o tpl/drivers/core/built-in.o tpl/drivers/misc/built-in.o tpl/drivers/sysreset/built-in.o tpl/drivers/mtd/built-in.o tpl/drivers/ram/built-in.o tpl/drivers/serial/built-in.o tpl/drivers/soc/built-in.o

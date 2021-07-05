@@ -1,0 +1,1 @@
+cmd_drivers/ram/rockchip/built-in.o :=  rm -f drivers/ram/rockchip/built-in.o; aarch64-linux-gnu-ar cDPrsT drivers/ram/rockchip/built-in.o drivers/ram/rockchip/sdram_rk3399.o drivers/ram/rockchip/sdram_common.o

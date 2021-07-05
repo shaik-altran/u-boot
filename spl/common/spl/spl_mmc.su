@@ -1,0 +1,6 @@
+spl_mmc.c:46:14:h_spl_load_read	48	static
+spl_mmc.c:241:5:spl_start_uboot	0	static
+spl_mmc.c:303:12:spl_mmc_boot_mode	0	static
+spl_mmc.c:321:22:spl_mmc_get_uboot_raw_sector	0	static
+spl_mmc.c:327:5:spl_mmc_load	112	static
+spl_mmc.c:425:5:spl_mmc_load_image	0	static

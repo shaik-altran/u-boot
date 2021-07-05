@@ -1,0 +1,1 @@
+cmd_spl/drivers/pinctrl/rockchip/built-in.o :=  rm -f spl/drivers/pinctrl/rockchip/built-in.o; aarch64-linux-gnu-ar cDPrsT spl/drivers/pinctrl/rockchip/built-in.o spl/drivers/pinctrl/rockchip/pinctrl-rockchip-core.o spl/drivers/pinctrl/rockchip/pinctrl-rk3399.o

@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/built-in.o :=  rm -f drivers/usb/host/built-in.o; aarch64-linux-gnu-ar cDPrsT drivers/usb/host/built-in.o drivers/usb/host/usb-uclass.o drivers/usb/host/ehci-hcd.o drivers/usb/host/ehci-generic.o drivers/usb/host/xhci.o drivers/usb/host/xhci-mem.o drivers/usb/host/xhci-ring.o drivers/usb/host/xhci-dwc3.o drivers/usb/host/dwc3-of-simple.o

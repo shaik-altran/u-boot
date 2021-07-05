@@ -1,0 +1,2 @@
+sdram_rk3399.c:3152:12:rk3399_dmc_get_info	32	static
+sdram_rk3399.c:3134:12:rk3399_dmc_probe	32	static

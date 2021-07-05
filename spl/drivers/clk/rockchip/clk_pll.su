@@ -1,0 +1,6 @@
+clk_pll.c:251:14:rk3036_pll_get_rate.isra.0	0	static
+clk_pll.c:49:5:gcd	0	static
+clk_pll.c:183:12:rk3036_pll_set_rate.isra.0	64	static
+clk_pll.c:299:7:rockchip_pll_get_rate	16	static
+clk_pll.c:321:5:rockchip_pll_set_rate	48	static
+clk_pll.c:347:1:rockchip_get_cpu_settings	0	static
